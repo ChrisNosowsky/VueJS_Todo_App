@@ -2,6 +2,9 @@
 
 Just a little crash course I followed.
 
+Heroku Deployment: https://vuejs-nosowsky-todolist.herokuapp.com/#/
+
+
 ## Project setup
 ```
 yarn install
