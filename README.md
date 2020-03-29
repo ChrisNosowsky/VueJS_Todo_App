@@ -1,4 +1,6 @@
-# vuejs_crash_course
+# VueJS Todo List Application
+
+Just a little crash course I followed.
 
 ## Project setup
 ```
